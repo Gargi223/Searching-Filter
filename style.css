@@ -1,0 +1,35 @@
+.card-holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 60px;
+
+}
+.card{
+    margin: 10px;
+    text-align: center;
+}
+.card img{
+    height: 250px !important;
+}
+.nav-btn{
+    width: 200px !important;
+    margin-left: 50px !important;
+}
+.nav-item{
+    margin-left: 20px !important;
+}
+.form-control{
+    width:400px !important;
+}
+
+.category-btn.act {
+    background-color: rgb(28, 127, 208) !important; /* Highlight active button */
+    color: white;
+  }
+  
+
+.product-item {
+    display: none;
+  }
+  
